@@ -27,7 +27,7 @@ const mutiflat = mutiArray.flat(2);  //flat(중첩depth)
 console.log(mutiflat);
 
 //const txtJoin = mutiflat.join(); // 문자열로 합치기 
-const txtJoin = mutiflat.join('-')
+const txtJoin = mutiflat.join('-') 
 console.log(txtJoin)
 
 
